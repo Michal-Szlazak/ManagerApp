@@ -36,14 +36,13 @@ Before running ManagerApp, ensure you have the following software installed:
    git clone https://github.com/Michal-Szlazak/ManagerApp.git
    ```
 2. Open the project in your IDE.
-
 3. Build the project using Maven:
-
-  ```bash
-  mvn clean install
-  ```
-
+   
+    ```bash
+    mvn clean install
+    ```
 4. Run the application
+   
    ```bash
    mvn spring-boot:run
    ```
